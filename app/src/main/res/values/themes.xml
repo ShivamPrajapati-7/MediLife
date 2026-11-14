@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Base.Theme.SplashScreen." parent="Theme.SplashScreen">
+
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash_logo</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">@color/white</item>
+
+
+    </style>
+    <style name="Theme.MediLife" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
